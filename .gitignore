@@ -1,0 +1,6 @@
+.DS_Store
+
+*.dll
+*.lib
+*.exe
+src/swift/generated/
